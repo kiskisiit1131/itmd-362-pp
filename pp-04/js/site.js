@@ -6,3 +6,10 @@ jQuery(function($) {
   $('html').removeClass('nojs');
   $('html').addClass('hasjs');
 });
+
+// added in so we can detect if the font is loaded or not
+  WebFont.load({
+    google: {
+      families: ['Roboto']
+    }
+  });
