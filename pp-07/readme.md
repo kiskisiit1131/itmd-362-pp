@@ -14,7 +14,7 @@ want to do multiple sketches, each highlighting a different feature of the same 
 * Apple iOS HCI Guidlines:
   https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
 * Gnome Desktop:
-  https://developer.microsoft.com/en-us/windows/desktop/design
+  https://developer.gnome.org/hig/stable/
 * Windows Desktop Guidelines:
   https://developer.microsoft.com/en-us/windows/desktop/design
 
@@ -36,6 +36,9 @@ toggle that info. This creates a clear and consise path throughout our login pag
 * How you implemented it in your sketch:
 Another big issue was the layout. The login area is way too small and the user is overloaded with unnecessary information on the login screen.
 We balanced out the layout so the username and password are big and easy to use, and eliminated any unnecessary information on the page. We decided
-to leave in support information because we felt like that was something any user might ne
-* HCI Guidline Three (URL):
+to leave in support information because we felt like that was something any user might need.
+* HCI Guidline Three (URL): https://developer.gnome.org/hig/stable/design-principles.html.en
 * How you implemented it in your sketch:
+The purpose of the login page is for the user to log in. Seems obvious, but it needs to be said because on the my IIT page 
+it's hard to tell what the focus of the page is. This is why we opted for a big, centered layout for the mobile screens so the user's 
+attention is drawn to the username and password portions of the page immediately. 
