@@ -32,8 +32,10 @@ One of the biggest downfalls in the original myIIT page was that it's painful to
 If you type in your username and password, the login button will pop up. If you scroll down and are looking for support information, you can
 toggle that info. This creates a clear and consise path throughout our login page. 
 
-* HCI Guidline Two (URL):
+* HCI Guidline Two (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742479(v=vs.85).aspx#layout
 * How you implemented it in your sketch:
-
+Another big issue was the layout. The login area is way too small and the user is overloaded with unnecessary information on the login screen.
+We balanced out the layout so the username and password are big and easy to use, and eliminated any unnecessary information on the page. We decided
+to leave in support information because we felt like that was something any user might ne
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
