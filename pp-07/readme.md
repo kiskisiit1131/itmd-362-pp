@@ -26,8 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/interaction/navigation/
 * How you implemented it in your sketch:
+One of the biggest downfalls in the original myIIT page was that it's painful to navigate. With our redesign, we made navigating simple. 
+If you type in your username and password, the login button will pop up. If you scroll down and are looking for support information, you can
+toggle that info. This creates a clear and consise path throughout our login page. 
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
