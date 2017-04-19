@@ -24,6 +24,6 @@ that my hair fell at all and I needed the use of one.
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Simplicity - the simplicity of the bobby pins design to complete its task
+2. Minimalism - the bobby pin is nonobtrusive, like our website should be
+3. Functional - performs the functions it needs to (sounds easier than it is)
