@@ -8,8 +8,8 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://www.keepitusable.com/keepitusable-mobile-app-usability-checklist.pdf
+2. http://infodesign.com.au/wp-content/uploads/WebCheck.pdf
 
 * Your own condensed, ten-item must-have usability checklist:
 
